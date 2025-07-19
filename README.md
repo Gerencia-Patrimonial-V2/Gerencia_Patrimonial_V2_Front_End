@@ -8,7 +8,7 @@ Este é o repositório do frontend da aplicação **Gerência Patrimonial V2**, 
 
 [Link para documentação dos artefatos](https://joao-artl.github.io/Gerencia_Patrimonial_V2/)
 
-[Link para o repositório do Back-End](https://github.com/joao-artl/Gerencia_Patrimonial_V2)
+[Link para o repositório do Back-End](https://github.com/Gerencia-Patrimonial-V2/Gerencia_Patrimonial_V2)
 
 ## ✨ Funcionalidades da Interface
 
